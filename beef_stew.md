@@ -6,13 +6,14 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 
 | Quantity   | Thing                    |
 | ---------- |-------------------------:|
-| 2 lbs.     | right-aligned            |
+| 2 lbs.     | Beef Stew Meat           |
 | 1/4 cup    | All-purpose Flour        |
-| 1/2 tsp.   | Ground Black Pepper      |
+| 1 tbsp.    | Ground Black Pepper      |
+| 1 tsp.     | Cayenne Pepper           |
 | 1/2 tsp.   | Iodized Salt             |
 | 1 bulb     | Garlic                   |
 | 1 tsp.     | Paprika                  |
-| 1 tsp.     | Worcestershire Sauce     |
+| 1 tbsp.    | Worcestershire Sauce     |
 | 1          | Bay Leaf                 |
 | 1          | Whole Onion              |
 | 2          | Potatoes, diced          |
@@ -21,15 +22,16 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 
 ### Directions
 
-* Place meat in slow cooker.
-* In small bowl, mix the flour, salt, and pepper.
-* Stir this into meat to coat with flour mixture.
-* Stir in the rest of the stuff
-* Cover, and cook on Low for 10 to 12 hours, or on High for 4 to 6 hours.
+* `Place` meat in slow cooker.
+* In small bowl, `mix` the flour, salt, and pepper.
+* `Stir` this into meat to `coat` with flour mixture.
+* `Stir` in the rest of the stuff
+* `Cover`, and `cook` on Low for 10 to 12 hours, or on High for 4 to 6 hours.
 
 ### Comments
 
 #### First Batch
+
 I cooked it slightly differently from the original recipe:
 * I increased the Garlic tenfold to a whole bulb (to ward off vampires)
 * I decreased the amount of potatoes to 2 because my crock pot was not big enough to handle the sheer volume
