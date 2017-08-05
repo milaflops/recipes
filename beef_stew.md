@@ -38,3 +38,10 @@ I cooked it slightly differently from the original recipe:
 * I chose gluten-free all-purpose flour. I think this was a good choice, as gluten is useless here
 
 The results were good, and the stew was flavorful. The potatoes, however, were too soft after cooking for 12 hours, and made the broth pretty thick and starchy.
+
+#### Second Batch
+
+Changing a few things this time:
+* Adding Cayenne to the pepper mix because it is delicious.
+* Increasing the amount of black pepper and Worcestershire sauce
+* Adding the potatoes halfway through to prevent them becoming too soft
