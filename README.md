@@ -1,7 +1,7 @@
 # Recipes
 ## An Iterative Approach
 
-This is my collection of recipes, including modifications that I make. I figured I could use git when I make modifications to recipes, and use github's neat system to log issues, and use pull requests and approvals to make modifications.
+This is my collection of recipes, including modifications that I make. I think git + github is a good tool for tracking changes and modifications over time.
 
 ## Current Recipes
 
