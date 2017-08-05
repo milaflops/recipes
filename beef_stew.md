@@ -6,15 +6,15 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 
 | Quantity   | Thing                    |
 | ---------- |-------------------------:|
-| 2 lbs.     | Beef Stew Meat           |
+| 2 lbs      | Beef Stew Meat           |
 | 1/4 cup    | All-purpose Flour        |
-| 1 tbsp.    | Ground Black Pepper      |
-| 1 tsp.     | Cayenne Pepper           |
-| 1/2 tsp.   | Iodized Salt             |
+| 1 tbsp     | Ground Black Pepper      |
+| 1 tsp      | Cayenne Pepper           |
+| 1/2 tsp    | Iodized Salt             |
 | 1 1/2 cup  | Beef Broth               |
 | 1 bulb     | Garlic                   |
-| 1 tsp.     | Paprika                  |
-| 1 tbsp.    | Worcestershire Sauce     |
+| 1 tsp      | Paprika                  |
+| 1 Tbsp     | Worcestershire Sauce     |
 | 1          | Bay Leaf                 |
 | 1          | Whole Onion              |
 | 2          | Potatoes, diced          |
@@ -46,3 +46,8 @@ Changing a few things this time:
 * Adding Cayenne to the pepper mix because it is delicious.
 * Increasing the amount of black pepper and Worcestershire sauce
 * Adding the potatoes halfway through to prevent them becoming too soft
+
+I accidentally put way too much Worcestershire (much more than 1Tbsp, I think) as I do not have measuring spoons. I'll keep it at 1Tbsp for now.
+I also put way too much garlic after discovering I had Garlic Powder to substitute, and incorrectly assuming it is equal in flavor effects to minced garlic by volume. This is potent stuff.
+I also chopped the onions up into half-rings instead of tiny little shards. This is a neat effect but I don't know how I feel about it.
+The rest of it was good, and I'll decrease the potato cooking time even more for next batch.
