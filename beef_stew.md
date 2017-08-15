@@ -15,6 +15,7 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 | 1 tsp      | Garlic Powder            |
 | 1 tsp      | Paprika                  |
 | 1 Tbsp     | Worcestershire Sauce     |
+| 1          | Bay Leaf                 |
 | 1          | Whole Onion              |
 | 4          | Carrots, sliced          |
 | 2          | Stalks celery, chopped   |
@@ -54,3 +55,8 @@ The rest of it was good, and I'll decrease the potato cooking time even more for
 #### Third Batch
 
 Bought actual measuring spoons. Will do everything as accurately as possible. Increasing beef broth as well (2 cups is also half a container, convenient!). I am lazy so potatoes go in in the beginning.
+
+Results: Best beef stew yet. Will clean up comments and solidify this recipe. Missing the bay leaf this time, though. May do the following:
+- Add back bay leaf? How about dried bay leaf? Does such a thing exist?
+- Decrease cayenne (half?)
+- Increase celery - if I'm buying celery anyway, it's worth including more (3 stalks?)
