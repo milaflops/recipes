@@ -11,8 +11,8 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 | 1 tbsp     | Ground Black Pepper      |
 | 1 tsp      | Cayenne Pepper           |
 | 1/2 tsp    | Iodized Salt             |
-| 1 1/2 cup  | Beef Broth               |
-| 1 bulb     | Garlic                   |
+| 2 cups     | Beef Broth               |
+| 1 whole    | Garlic                   |
 | 1 tsp      | Paprika                  |
 | 1 Tbsp     | Worcestershire Sauce     |
 | 1          | Bay Leaf                 |
@@ -51,3 +51,7 @@ I accidentally put way too much Worcestershire (much more than 1Tbsp, I think) a
 I also put way too much garlic after discovering I had Garlic Powder to substitute, and incorrectly assuming it is equal in flavor effects to minced garlic by volume. This is potent stuff.
 I also chopped the onions up into half-rings instead of tiny little shards. This is a neat effect but I don't know how I feel about it.
 The rest of it was good, and I'll decrease the potato cooking time even more for next batch.
+
+#### Third Batch
+
+Bought actual measuring spoons. Will do everything as accurately as possible. Increasing beef broth as well (2 cups is also half a container, convenient!). I am lazy so potatoes go in in the beginning.
