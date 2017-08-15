@@ -12,7 +12,7 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 | 1 tsp      | Cayenne Pepper           |
 | 1/2 tsp    | Iodized Salt             |
 | 2 cups     | Beef Broth               |
-| 1 whole    | Garlic                   |
+| 1 bulb     | Garlic                   |
 | 1 tsp      | Paprika                  |
 | 1 Tbsp     | Worcestershire Sauce     |
 | 1          | Bay Leaf                 |
