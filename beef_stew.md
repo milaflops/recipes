@@ -15,11 +15,10 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 | 1 tsp      | Garlic Powder            |
 | 1 tsp      | Paprika                  |
 | 1 Tbsp     | Worcestershire Sauce     |
-| 1          | Bay Leaf                 |
 | 1          | Whole Onion              |
-| 2          | Potatoes, diced          |
 | 4          | Carrots, sliced          |
 | 2          | Stalks celery, chopped   |
+| 2          | Potatoes, diced          |
 
 ### Directions
 
