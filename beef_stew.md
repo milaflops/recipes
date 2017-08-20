@@ -9,7 +9,7 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 | 2 lbs      | Beef Stew Meat           |
 | 1/4 cup    | All-purpose Flour        |
 | 1 tbsp     | Ground Black Pepper      |
-| 1 tsp      | Cayenne Pepper           |
+| 1/2 tsp    | Cayenne Pepper           |
 | 1/2 tsp    | Iodized Salt             |
 | 2 cups     | Beef Broth               |
 | 1 tsp      | Garlic Powder            |
