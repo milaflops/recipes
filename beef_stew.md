@@ -74,3 +74,7 @@ I cooked it slightly differently from the original recipe:
 - I chose gluten-free all-purpose flour. I think this was a good choice, as gluten is useless here
 
 The results were good, and the stew was flavorful. The potatoes, however, were too soft after cooking for 12 hours, and made the broth pretty thick and starchy.
+
+#### nth batch
+
+My partner said there's too much beef. This is probably correct. So I halved the beef and added more vegetables.
