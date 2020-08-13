@@ -1,6 +1,6 @@
 # Beef Stew
 
-This is a savory and hearty warm meal for those who enjoy food. It can be adapted with low risk of catastrophic failure, and is a good beginner dish for people who do not know anything about cooking (like me). I got the original recipe it from my best friend who made it while we were living together on a tight budget.
+This is a savory and hearty warm meal for those who enjoy food. It can be altered with low risk of catastrophic failure, and is a good beginner dish for people who do not know anything about cooking (like me). I got the original recipe from my best friend, who made it while we were living together on a tight budget. It has since been altered to decrease the beef and increase the veggies.
 
 ### Equipment
 - Slow Cooker, 6 qt or larger
@@ -12,33 +12,46 @@ This is a savory and hearty warm meal for those who enjoy food. It can be adapte
 
 | Quantity   | Thing                    | Substitute                   |
 | ---------- | -----------------------: | ---------------------------- |
-| 2 lbs      | Beef Stew Meat           |                              |
-| 1/4 cup    | All-purpose Flour        |                              |
-| 2 tsp      | Ground Black Pepper      |                              |
-| 1/2 tsp    | Cayenne Pepper           |                              |
+| 1 lb       | Beef Stew Meat           |                              |
+| 1/8 cup    | All-purpose Flour        |                              |
+| 1 tsp      | Ground Black Pepper      |                              |
+| 1/4 tsp    | Cayenne Pepper           |                              |
 | 1/2 tsp    | Iodized Salt             |                              |
 | 2 cups     | Beef Broth               |                              |
 | 1 head     | Garlic, Minced           | 1 tsp Garlic Powder          |
 | 1 tsp      | Paprika                  |                              |
 | 1 Tbsp     | Worcestershire Sauce     |                              |
-| 1          | Bay Leaf                 | 2 Dried Bay Leafs            |
-| 1          | Whole Onion              |                              |
-| 4          | Carrots, sliced          | 1 bag Baby Carrots, Sliced   |
-| 2          | Heads celery, chopped    | 3 heads if you want          |
-| 2          | Potatoes, diced          | 2 Potatoes, diced and peeled |
+| 1          | Bay Leaf                 | 1 Dry Bay Leaf               |
+| 1          | Whole Onion, diced       |                              |
+| 6          | Carrots, sliced          | 1 bag Baby Carrots, Sliced   |
+| 1          | Head celery, chopped     | Up to 3 heads if you want    |
+| 2          | Potatoes, diced          | 18oz Baby Potatoes           |
 
 ### Directions
 
-1. `Cut` beef stew meat into ~1" cubes.
-1. In small bowl, `sift` the flour, salt, and pepper together.
-1. `Coat` the beef cubes in this floured mixture and stir until evenly coated. You can use a large bowl and a spatula, or just use your hands lol.
-1. `Place` the beef cubes in bottom of slow cooker.
-1. `Pour` in the broth, and add each subsequent ingredient over that, ending up with the potatoes on top. This lets the carrots and celery simmer and keeps the potatoes from getting soggy. Don't stir!
-1. `Cover`, and `cook` on Low for 10 to 12 hours, or on High for 4 to 6 hours.
+1. **Cut** beef stew meat into ~1/2" cubes.
+1. In small bowl, **sift** the flour, salt, and pepper together.
+1. **Coat** the beef cubes in this floured mixture and stir until evenly coated. You can use a large bowl and a spatula, or just use your hands lol.
+1. **Place** the beef cubes in bottom of slow cooker.
+1. **Pour** in the broth, and add each subsequent ingredient over that, ending up with the potatoes on top. This lets the carrots and celery simmer and keeps the potatoes from getting soggy. Don't stir!
+1. **Cover**, and **cook** on Low for 10 to 12 hours, or on High for 4 to 6 hours.
 
-### CHANGELOG
+### Journal
 
-#### nth Batch (February 2019)
+#### July 2020
+
+My partner said there's too much beef. For the sake of science, I halved the beef and added more vegetables. This turned out to be so delicious that I've augmented the recipe to include these changes.
+
+This has the added bonus of making the recipe much cheaper, as the beef is usually the most expensive component. This also seems to reduce how sleepy one gets after having a big bowl of this stuff.
+
+#### Mistakes learned last time
+
+I made several mistakes this last time. I had accidentally cooked the stew for 10 hours on *high*, which turned the whole thing into a sludge. Bad idea.
+Adding to the sludgey property was the fact that, somehow, I measured out an entire cup of flour. I did not notice upon dumping the beef into the cooker.
+
+Upon making a second batch, I realized these mistakes, and the second round was much less schloppy as the first.
+
+#### February 2019
 
 - 1 Tbsp of pepper is too much. I've decreased this to 2 tsp
 - There wasn't enough celery. I've increased this to 2 heads (will use 3 heads this time because that's what I have)
@@ -74,9 +87,3 @@ I cooked it slightly differently from the original recipe:
 - I chose gluten-free all-purpose flour. I think this was a good choice, as gluten is useless here
 
 The results were good, and the stew was flavorful. The potatoes, however, were too soft after cooking for 12 hours, and made the broth pretty thick and starchy.
-
-#### nth batch
-
-My partner said there's too much beef. This is probably correct. So I halved the beef and added more vegetables.
-
-AAaaaaa random words. Testing signed commits.
