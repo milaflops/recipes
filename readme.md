@@ -10,3 +10,6 @@ A nice stew that my best friend made one time, I've since modified it
 
 ### [Chickpea Salad](chickpea_salad.md)
 A refreshing side dish, perfect for a picnic, or a night at Cinespia.
+
+### [Dumplings](dumplings.md)
+Simple and easy to cook. Takes about 1-2 hours, disappears in minutes.
