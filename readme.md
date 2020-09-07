@@ -5,6 +5,9 @@ My personal collection of recipes, including modifications that I make. The aim 
 
 ## Current Recipes
 
+### [Sesame Noodles](sesame_noodles.md)
+A delicious cold noodle dish for a hot summer day.
+
 ### [Beef Stew](beef_stew.md)
 A nice stew that my best friend made one time, I've since modified it
 
