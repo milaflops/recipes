@@ -1,7 +1,7 @@
 # Recipes
 ## An Iterative Approach
 
-My personal collection of recipes, including modifications that I make. The aim is to be a mirror of my paper recipes, for remote lookup, backup, and sharing purposes. Eventually I'll add my bookmarked online recipes, as I've lost more than a few of those to link rot.
+My personal collection of recipes, from various sources, or invented. The aim is to be a mirror of my paper recipes, for remote lookup, backup, and sharing purposes. Eventually I'll add my bookmarked online recipes, as I've lost more than a few of those to link rot.
 
 ## Current Recipes
 
