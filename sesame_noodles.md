@@ -25,9 +25,9 @@ Delicious cold noodles for a hot summer day.
 
 ### Directions
 
-1. Boil the noodles until al dente, then rinse with cold water. Chill if desired.
+1. **Boil** the noodles until al dente, then rinse with cold water. Chill if desired.
 1. While noodles are boiling, **combine** all sauce ingredients and stir until well mixed.
 1. **Add** more sugar, sesame oil, or hot Sauce as needed, to taste.
-1. *Blanch* the carrots until slightly soft, and rinse with cold water
-1. *Plate* noodles, cucumber, and carrots separately, and serve the sauce separate to allow the hungery people to decide how much they want.
+1. **Blanch** the carrots until slightly soft, and rinse with cold water
+1. **Plate** noodles, cucumber, and carrots separately, and serve the sauce separate to allow the hungery people to decide how much they want.
 1. ***Enjoy!***
